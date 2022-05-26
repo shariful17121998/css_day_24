@@ -1,0 +1,20 @@
+@font-face {
+    font-family: serifs;
+    src: url(../fonts/Westwood_Studio.ttf);
+}
+
+body{
+    font-size: 30;
+    background-color: c2c2c2;   
+}
+
+h1{
+    color: blue;
+    text-shadow: 12x 12x 12x red;
+}
+
+p{
+    color: red;
+    font-size: 50px; 
+    font-family: serifs;
+}
